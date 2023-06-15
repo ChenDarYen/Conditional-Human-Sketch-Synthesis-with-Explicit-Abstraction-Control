@@ -1,1 +1,1 @@
-# Conditional-Human-Sketch-Synthesis-with-Explicit-Abstraction-Control
+# Conditional Human Sketch Synthesis<br>with Explicit Abstraction Control<br><sub>Official PyTorch Implementation</sub>
